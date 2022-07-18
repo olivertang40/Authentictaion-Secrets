@@ -1,2 +1,0 @@
-# Authentictaion-Secrets
-Authentictaion-Secrets
